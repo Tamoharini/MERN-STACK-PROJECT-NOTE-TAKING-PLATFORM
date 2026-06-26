@@ -1,0 +1,6 @@
+{
+  "name": "Note Taking Application",
+  "description": "A collaborative note-taking application that allows users to create, organize, search, and edit notes in real-time with other users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
